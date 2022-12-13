@@ -19,7 +19,7 @@ int angleLimit = false;
 unsigned long timer = millis();                         //luodaan muuttuja ajastimelle
 
 Servo servoMotor;
-
+//testi1
 
 void setup()
 {
